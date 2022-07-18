@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaghvendraPSingh
 - 👀 I’m interested in numerical modeling of physical problems.
-- 🌱 I’m currently working on calculating fatigue life with wear.
+- 🌱 I’m currently working on calculating fatigue life with wear and visualization of contact parameters.
 - 💞️ I’m looking to collaborate on  visualization and data processing for Contact in Ansys using PYTHON.
 - 📫 How to reach me +918800934971
 
